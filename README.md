@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Telaj Mohammed</h1>
 <h3 align="center">A passionate Full Stack developer from Morocco</h3>
-
+<img scr="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw15NDcVOYvTsqaxeDdI2l-m&ust=1698979087027000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPiche2kpIIDFQAAAAAdAAAAABAE" align="right" width="400">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=t-med1&label=Profile%20views&color=0e75b6&style=flat" alt="t-med1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/m_telaj01" target="blank"><img src="https://img.shields.io/twitter/follow/m_telaj01?logo=twitter&style=for-the-badge" alt="m_telaj01" /></a> </p>
